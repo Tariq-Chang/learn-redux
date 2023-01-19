@@ -1,5 +1,8 @@
 Learning Redux 
 
+// Redux installation with react
+> npm install@latest react-redux-app --template redux
+
 Simple Counter Application
 STEPS:
 
